@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @narimanabdi a programmer since 1998.
 - 👀 I’m interested in Games, and AI.
-- 🌱 I’m currently learning Machine Learning, Computer Vision, Artificial Intelligence, and Game Dev
 - ⚡It’s all `0` and `1`
 
 **Languages and Tools:** 
